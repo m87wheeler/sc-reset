@@ -1,4 +1,4 @@
-### Styled Components Reset
+# Styled Components Reset
 
 ### Usage
 
