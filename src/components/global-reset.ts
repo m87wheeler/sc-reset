@@ -63,7 +63,7 @@ interface Props {
   vars?: FlattenSimpleInterpolation
 }
 
-export const GlobalStyles = createGlobalStyle<Props>`
+export const GlobalReset = createGlobalStyle<Props>`
     ${reset};
     ${document};
     ${({ vars }: Props) => vars && vars};
